@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<college>  
+  <student>  
+      <firstname>Tamanna</firstname>  
+      <lastname>Bhatia</lastname>  
+      <contact>09990449935</contact>  
+      <email>tammanabhatia@abc.com</email>  
+      <address>  
+           <city>Ghaziabad</city>  
+           <state>Uttar Pradesh</state>  
+           <pin>201007</pin>  
+      </address>  
+  </student>  
+</college> 

@@ -1,0 +1,12 @@
+@charset "ISO-8859-1";
+employee  
+{  
+background-color: pink;  
+}  
+firstname,lastname,email  
+{  
+font-size:25px;  
+display:block;  
+color: blue;  
+margin-left: 50px;  
+}   
